@@ -1,0 +1,26 @@
+.table{
+    margin-bottom: 50px;
+}
+
+table {
+    background-color: #00abff;
+    border-collapse: collapse;
+    border-radius: 1em;
+    overflow: hidden;
+}
+thead {
+    background-color: #00abff;
+}
+
+td, th {
+    text-align: left;
+    padding: 0.5em 1em;
+}
+
+th{
+    border-bottom: 3px solid white; 
+}
+
+td{
+    border-top: 2px solid white ;
+}

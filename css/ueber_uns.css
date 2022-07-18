@@ -1,0 +1,33 @@
+
+.ueber-uns{
+    display: flex;
+    justify-content: space-around;
+}
+
+.ueber-uns-article{
+    width: 450px;
+    border: 1px solid silver;
+    border-radius: 10px;
+}
+
+.ueber-uns-article p{
+    height: 80px;
+    text-align: center;
+}
+
+.ueber-uns-article h3{
+    text-align: center;
+    font-size: 20px;
+    background-color: #00abff;
+    margin: -1px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 10px;
+    color: white;
+}
+
+.ueber-uns-article img{
+    display: flex;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
